@@ -31,12 +31,19 @@ An intelligent student assistant built with LangGraph that helps learners with p
 ## Project Structure
 
 ---bash
+
 StudyGraph AI/
+
 |---app.py/
+
 |---agents/
+
 │--- tools/
+
 │--- prompts/
+
 │--- requirements.txt
+
 │--- README.md
 
 ## Run
