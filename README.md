@@ -28,23 +28,6 @@ An intelligent student assistant built with LangGraph that helps learners with p
 - Learning roadmaps
 - Subject specific doubt solving
 
-## Project Structure
-
----bash
-
-StudyGraph AI/
-
-|---app.py/
-
-|---agents/
-
-│--- tools/
-
-│--- prompts/
-
-│--- requirements.txt
-
-│--- README.md
 
 ## Run
 ---bash
